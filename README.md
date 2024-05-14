@@ -9,7 +9,7 @@ cd Your-IP-Public
 ```
 
 ```
-python3 view-ip.py
+python3 view_ip.py
 ```
 
 # Created By:
